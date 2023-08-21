@@ -1,0 +1,18 @@
+/* SocialIcons.css */
+.social-icons {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .icon {
+    font-size: 70px;
+    color: #333; /* Change to your preferred color */
+    transition: color 0.3s;
+  }
+  
+  .icon:hover {
+    color: #007bff; /* Change to your preferred hover color */
+  }
+  
